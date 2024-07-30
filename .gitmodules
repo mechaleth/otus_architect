@@ -1,0 +1,3 @@
+[submodule "docker_task/simple_fastserver"]
+	path = docker_task/simple_fastserver
+	url = https://github.com/mechaleth/simple_fastserver.git
